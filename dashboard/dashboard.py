@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 
 # Load the data
-data_day = pd.read_csv('../data/day.csv')
+data_day = pd.read_csv('./data/day.csv')
 
 # Create a mapping for the 'weathersit' descriptions
 weather_labels = {
