@@ -68,7 +68,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- yr : year (0: 2011, 1:2012)
 	- mnth : month ( 1 to 12)
 	- hr : hour (0 to 23)
-	- holiday : weather day is holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
+	- holiday : wether day is holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
 	- weekday : day of the week
 	- workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
 	+ weathersit : 
